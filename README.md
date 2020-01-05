@@ -1,7 +1,12 @@
-# :poop: (Un)Awesome Design
+# :upside_down_face: Awesome Hamartian Design
+
 [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/JCGrant/awesome-design-gore/pulls)
 
-> A curated list of designs, produced by common misconception, or a lack of domain knowledge of the object in question. We welcome [Issues](https://github.com/JCGrant/awesome-design-gore/issues/new), and feel free to open [Pull Requests](https://github.com/JCGrant/awesome-design-gore/pulls) if you find any more good examples!
+> [**Harmartia**](https://en.wikipedia.org/wiki/Hamartia) derives from the Greek ἁμαρτία, from ἁμαρτάνειν hamartánein, which means "to miss the mark" or "to err".
+
+> This is a  curated list of designs that are extremely close to being spot on but just miss the mark, usually due to common misconception or a lack of domain knowledge of the object in question.
+
+> We welcome [Issues](https://github.com/JCGrant/awesome-design-gore/issues/new), and feel free to open [Pull Requests](https://github.com/JCGrant/awesome-design-gore/pulls) if you find any more good examples!
 
 ![bad design](/bad-design.png)
 
